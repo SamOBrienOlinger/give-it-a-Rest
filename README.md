@@ -13,6 +13,8 @@ Explore functions that accept a variable number of arguments.
 
 ## Getting started
 
+Git is required for the clone command below.
+
 Use Node.js to explore the examples. No npm packages are required.
 
 ```bash
